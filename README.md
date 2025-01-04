@@ -67,4 +67,3 @@ Contributions are welcome! Please open an issue or submit a pull request for imp
 You can also try this project directly on Google Colab:
 
 [Open the Colab Notebook](https://colab.research.google.com/drive/1FUl4ixJUDEJVMJSypOKOwq83VijQy6GN)
-```

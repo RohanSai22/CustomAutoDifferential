@@ -43,6 +43,9 @@ Install the required Python libraries:
 pip install numpy matplotlib networkx
 ```
 
+Sample Output :
+
+![image](https://github.com/user-attachments/assets/59bbdeef-7eb4-4d0f-b18e-75018c62a51e)
 
 Computational graph visualization will display a directed acyclic graph of operations.
 
